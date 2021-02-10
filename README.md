@@ -1,4 +1,4 @@
-# repo_SI_licencias_1
+# ACTIVIDAD Comprobación Actividad de Licencias
 
 ## Primera parte Licencia Elegida
 - **_¿Cuál es el nombre de la licencia?_**: La licencia que cumple con las características descritas es [Aquí viene al respuesta del alumno]
